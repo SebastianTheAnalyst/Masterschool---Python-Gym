@@ -1,2 +1,2 @@
-# Masterschool---Python-Gym
+# Masterschool Python-Gym
 Python Practise Sessions at Masterschool
